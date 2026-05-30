@@ -1,10 +1,10 @@
-# 📱 Sign In Screens
+# Sign In Screens
 
 A beautiful, modern React Native application showcasing various sign-in screen UI designs. Built with Expo, Expo Router, and React Native Reanimated for smooth transitions and animations.
 
 ---
 
-## 📥 Download App
+## Download App
 
 Try out the app on your Android device! You can download the compiled Android APK or the App Bundle (AAB):
 
@@ -13,10 +13,6 @@ Try out the app on your Android device! You can download the compiled Android AP
 
 > **Raw Link:** [https://expo.dev/artifacts/eas/tWnnM8KHNtfBzL9ZJA6p2U.apk](https://expo.dev/artifacts/eas/tWnnM8KHNtfBzL9ZJA6p2U.apk)
 
-### AAB (App Bundle)
-[![Download Android AAB](https://img.shields.io/badge/Download-AAB-brightgreen?style=for-the-badge&logo=android)](https://expo.dev/artifacts/eas/aDQgBHjGoYB2eLRfJfAJDr.aab)
-
-> **Raw Link:** [https://expo.dev/artifacts/eas/aDQgBHjGoYB2eLRfJfAJDr.aab](https://expo.dev/artifacts/eas/aDQgBHjGoYB2eLRfJfAJDr.aab)
 
 ---
 
@@ -34,6 +30,7 @@ Try out the app on your Android device! You can download the compiled Android AP
   <!-- Add your screenshots here. For example: -->
   <!-- <img src="./assets/images/screenshot1.png" width="300" /> -->
   <i>Screenshots coming soon...</i>
+  
 </div>
 
 ---
@@ -75,7 +72,7 @@ Once the server is running, you can:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - [**React Native**](https://reactnative.dev/)
 - [**Expo**](https://expo.dev/) (SDK 55)
@@ -84,7 +81,7 @@ Once the server is running, you can:
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 - `npm start`: Starts the Expo development server.
 - `npm run android`: Starts the dev server and automatically opens the app on a connected Android device or emulator.
