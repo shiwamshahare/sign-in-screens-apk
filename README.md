@@ -1,56 +1,99 @@
-# Welcome to your Expo app 👋
+# 📱 Sign In Screens
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A beautiful, modern React Native application showcasing various sign-in screen UI designs. Built with Expo, Expo Router, and React Native Reanimated for smooth transitions and animations.
 
-## Get started
+---
 
-1. Install dependencies
+## 📥 Download App
 
+Try out the app on your Android device! You can download the compiled Android APK or the App Bundle (AAB):
+
+### APK (For direct installation)
+[![Download Android APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://expo.dev/artifacts/eas/tWnnM8KHNtfBzL9ZJA6p2U.apk)
+
+> **Raw Link:** [https://expo.dev/artifacts/eas/tWnnM8KHNtfBzL9ZJA6p2U.apk](https://expo.dev/artifacts/eas/tWnnM8KHNtfBzL9ZJA6p2U.apk)
+
+### AAB (App Bundle)
+[![Download Android AAB](https://img.shields.io/badge/Download-AAB-brightgreen?style=for-the-badge&logo=android)](https://expo.dev/artifacts/eas/aDQgBHjGoYB2eLRfJfAJDr.aab)
+
+> **Raw Link:** [https://expo.dev/artifacts/eas/aDQgBHjGoYB2eLRfJfAJDr.aab](https://expo.dev/artifacts/eas/aDQgBHjGoYB2eLRfJfAJDr.aab)
+
+---
+
+## ✨ Features
+- **Modern UI/UX**: Clean and attractive sign-in interfaces.
+- **Smooth Animations**: Powered by `react-native-reanimated`.
+- **File-based Routing**: Utilizing Expo Router for seamless navigation.
+- **Cross-Platform Ready**: Works seamlessly on Android, iOS, and Web.
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <!-- Add your screenshots here. For example: -->
+  <!-- <img src="./assets/images/screenshot1.png" width="300" /> -->
+  <i>Screenshots coming soon...</i>
+</div>
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (v18 or newer recommended)
+- `npm`, `yarn`, or `bun`
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/shiwamshahare/sign-in-screens-apk.git
+   cd sign-in-screen
+   ```
+
+2. **Install dependencies:**
    ```bash
    npm install
    ```
 
-2. Start the app
+### Running the App Locally
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+Start the development server:
 ```bash
-npm run reset-project
+npm start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Once the server is running, you can:
+- Press **`a`** to open on an Android emulator.
+- Press **`i`** to open on an iOS simulator.
+- **Scan the QR code** using the [Expo Go](https://expo.dev/client) app on your physical device.
 
-### Other setup steps
+---
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+## 🛠️ Technologies Used
 
-## Learn more
+- [**React Native**](https://reactnative.dev/)
+- [**Expo**](https://expo.dev/) (SDK 55)
+- [**Expo Router**](https://docs.expo.dev/router/introduction/)
+- [**React Native Reanimated**](https://docs.swmansion.com/react-native-reanimated/)
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📜 Available Scripts
 
-## Join the community
+- `npm start`: Starts the Expo development server.
+- `npm run android`: Starts the dev server and automatically opens the app on a connected Android device or emulator.
+- `npm run ios`: Starts the dev server and automatically opens the app on a connected iOS simulator.
+- `npm run web`: Starts the app in your default web browser.
+- `npm run lint`: Analyzes the code for errors and formatting issues.
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<div align="center">
+  <i>Built with ❤️ using React Native & Expo</i>
+</div>
