@@ -29,7 +29,11 @@ Try out the app on your Android device! You can download the compiled Android AP
 <div align="center">
   <!-- Add your screenshots here. For example: -->
   <!-- <img src="./assets/images/screenshot1.png" width="300" /> -->
-  <i>Screenshots coming soon...</i>
+  <!-- <i>Screenshots coming soon...</i> -->
+  <img width="270" height="600" alt="1" src="https://github.com/user-attachments/assets/5000784d-58c9-4f70-b740-4eea3c91c458" />
+<img width="270" height="600" alt="2" src="https://github.com/user-attachments/assets/c0f55385-93f4-454d-9eb6-5d3cc982049d" />
+<img width="270" height="600" alt="3" src="https://github.com/user-attachments/assets/6d575c5a-2f3c-4970-9d85-f32b06500650" />
+
   
 </div>
 
